@@ -75,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GelBellita&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelBellita&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=GelBellita&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GelBellita&theme=default" alt="Repos per language" />
 </p>
 
 ---
